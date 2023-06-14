@@ -1,1 +1,1 @@
-# dnsresolver
+# dnsresolver is a core component of the dns guard project
